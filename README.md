@@ -14,3 +14,6 @@
 
 [An endless carpet of Unicode character height maps (Version 3 - Walls along the contours of symbols) | Babylon.js Playground](https://playground.babylonjs.com/#MKTYBB)
 
+Бесконченый процедурно генерируемый ковёр из случайных символов Юникода стены но символы одинаковые и вверху, и внизу.
+
+[An endless carpet of Unicode character height maps (Version 4 - The symbols are the same at the top and at the bottom) | Babylon.js Playground](https://playground.babylonjs.com/#59YZ67)
