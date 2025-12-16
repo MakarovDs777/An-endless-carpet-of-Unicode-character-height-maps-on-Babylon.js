@@ -9,3 +9,8 @@
 Бесконечный процедурный ковер там где символы Юникода там впадины а в остальном высоты.
 
 [An endless carpet of Unicode character height maps (Version 2 - There are depressions where Unicode characters are) | Babylon.js Playground](https://playground.babylonjs.com/#4J3WFR)
+
+Бесконченый процедурно генерируемый ковёр из случайных символов Юникода но из символов Юникода стены.
+
+[An endless carpet of Unicode character height maps (Version 3 - Walls along the contours of symbols) | Babylon.js Playground](https://playground.babylonjs.com/#MKTYBB)
+
